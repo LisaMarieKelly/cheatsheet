@@ -1,0 +1,55 @@
+* {
+  font-family: "Zen Kurenaido";
+  font-weight: 600;
+  font-size: 20px;
+}
+
+td {
+  border: solid grey;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  font-size: 20px;
+}
+
+h1,
+h2 {
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+th {
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+a {
+}
+a:hover {
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: blue;
+}
+a:hover {
+  cursor: pointer;
+  font-weight: bolder;
+  color: black;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 30px;
+  font-size: 20px;
+  color: black;
+}
